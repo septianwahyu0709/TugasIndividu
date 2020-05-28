@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\kals\kals\bin\Debug\kals.exe.config
+C:\Users\ASUS\source\repos\kals\kals\bin\Debug\kals.exe
+C:\Users\ASUS\source\repos\kals\kals\bin\Debug\kals.pdb
+C:\Users\ASUS\source\repos\kals\kals\obj\Debug\kals.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\kals\kals\obj\Debug\kals.Form1.resources
+C:\Users\ASUS\source\repos\kals\kals\obj\Debug\kals.Properties.Resources.resources
+C:\Users\ASUS\source\repos\kals\kals\obj\Debug\kals.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\kals\kals\obj\Debug\kals.exe
+C:\Users\ASUS\source\repos\kals\kals\obj\Debug\kals.pdb
+C:\Users\ASUS\source\repos\kals\kals\obj\Debug\kals.csproj.CoreCompileInputs.cache
