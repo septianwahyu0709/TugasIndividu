@@ -1,0 +1,45 @@
+Belajar PHP
+<?php
+	// komentar satu baris 
+	/* komentar
+	   lebih
+	   dari satu baris
+	*/
+	echo "php itu mudah";
+?>
+itu Mudah <?php echo "sintak php"; echo "pemrograman web";?> dan menyenangkan
+fhdjfdjkfhd
+dfdfkdhf
+dfhdjkfhdf
+<?php 
+	echo "<b>tulisan dicetak tebal</b>";
+	echo "<p style='color:red;'>
+		tulisan ini dicetak warna merah
+		</p>";
+?>
+<?php
+	$alas = 10;
+	$tinggi = 15;
+	$luas = 0.5 *$alas * $tinggi;
+
+	echo 'Luas segitiga dengan alas='.$alas.' dan tinggi '.$tinggi.' adalah '.$luas;
+
+	$nama ="Ahmad";
+	$data =array("Ali","Jombang",100);
+	$bln =array("Januari","Februari");
+
+	echo "<br>";
+	var_dump($data);
+	echo "Bulan ".$bln[2];
+
+	for($i=0;$i<6;$i++){
+		echo $bln[$i];
+	}
+	echo "<br>";
+
+	for($i=0;$i<6;$i++)
+	{
+		echo $bln[$i];
+	}
+
+?>
